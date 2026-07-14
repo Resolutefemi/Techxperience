@@ -1,16 +1,14 @@
-# Written Motivation: Why I Build
+# Motivation Statement
 
-Hi there! I am **Ariyo Oluwafemi Stephen**, a Software Engineering student at the Federal University of Technology, Akure (FUTA) and the founder of **Renance Technology**. 
+### Highlighted Projects
+*   **[unique](https://github.com/Resolutefemi/unique):** Built unique.js, a full-stack polyglot framework (live at kungfujs.vercel.app).
+*   **[htool](https://github.com/Resolutefemi/htool):** Engineered a comprehensive hacker tool designed for vulnerability scanning, stack analysis, and website attack simulation.
+*   **[Devtools-cli](https://github.com/Resolutefemi/Devtools-cli):** Developed the unified command-line ecosystem powering Renance DevTools on PyPI.
 
-I am deeply passionate about full-stack systems engineering, open-source development, and building high-performance developer tools for African developers and the global community.
+My drive to engineer high-impact software solutions is rooted in my academic foundation as a Software Engineering student at the Federal University of Technology, Akure, and my practical experience as the founder of Renance Technology. 
 
-## My Motivation & Drive
+My core focus is the development of robust, accessible infrastructure designed to empower the global developer community, with a special emphasis on the African tech ecosystem. Through creating utilities like the aforementioned DevTools and architecting the multi-file, VS Code-inspired Renance Playground web IDE, I consistently prioritize building systems that reduce friction and enhance productivity. 
 
-* **Empowering Developers:** Technology is the ultimate leverage. My work focuses on building tools that streamline workflows, lower the barrier to entry, and enable other developers to build faster and more reliably.
-* **Creating Practical Infrastructure:** From launching **Renance DevTools** (`renance-dt` on PyPI) to developing the **Renance Playground** (a highly optimized, VS Code-inspired web-based assembly/compiler playground), I thrive on engineering low-overhead, accessible development environments.
-* **Continuous Technical Growth:** I love operating at the intersection of web technologies and systems engineering—whether writing Rust, crafting TypeScript/React UI interfaces, or working with lower-level structures like x86 Assembly.
+Technically, my work spans both full-stack web architectures and lower-level systems engineering. I actively develop across a diverse stack that includes Rust, TypeScript, C/C++, and x86 Assembly. Additionally, my ongoing preparation for the Offensive Security Certified Professional (OSCP) certification instills a rigorous, security-first mindset into my software development lifecycle.
 
-I want to leverage every opportunity to expand my systems and software engineering capabilities, collaborate with brilliant minds, and build software infrastructure that leaves a lasting footprint on the African tech ecosystem.
-
----
-*Created as my application submission for the program.*
+I am highly motivated to participate in this program to further refine my systems engineering capabilities, collaborate with industry peers, and accelerate the deployment of world-class developer tools.

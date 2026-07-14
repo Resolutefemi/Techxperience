@@ -2,8 +2,8 @@
 
 ### Highlighted Projects
 *   **[unique](https://github.com/Resolutefemi/unique):** Built unique.js, a full-stack polyglot framework (live at kungfujs.vercel.app).
-*   **[htool](https://github.com/Resolutefemi/htool):** Engineered a comprehensive hacker tool designed for vulnerability scanning, stack analysis, and website attack simulation.
-*   **[Devtools-cli](https://github.com/Resolutefemi/Devtools-cli):** Developed the unified command-line ecosystem powering Renance DevTools on PyPI.
+*   **[htool](https://github.com/Resolutefemi/htool):** Engineered a comprehensive hacker tool designed for vulnerability scanning, stack analysis, and website attack simulation. it has both CLI and GUI. Available on Cargo 
+*   **[Devtools-cli](https://github.com/Resolutefemi/Devtools-cli):** Developed the unified command-line ecosystem that can be used for any task that developers needs, available on PyPI.
 
 My drive to engineer high-impact software solutions is rooted in my academic foundation as a Software Engineering student at the Federal University of Technology, Akure, and my practical experience as the founder of Renance Technology. 
 
